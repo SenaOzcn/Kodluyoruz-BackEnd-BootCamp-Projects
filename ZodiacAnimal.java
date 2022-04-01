@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class ZodiacAnimal {
+public class Main {
     public static void main(String[] args) {
         // Create variable
       int year;
@@ -33,6 +33,8 @@ public class ZodiacAnimal {
           System.out.println("Your Chinese Zodiac Animal is Horse!");
       } else if (year %12 == 11) {
           System.out.println("Your Chinese Zodiac Animal is Goat!");
+      } else {
+          System.out.println("You entered incorrect data. Please try again!");
       }
     }
 }
