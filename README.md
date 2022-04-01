@@ -2,5 +2,5 @@
 
 I gathered the **JAVA** projects I created during bootcamp here.
 
-- Zodiac Animal Programme
-- Leap Years Programme
+- [Zodiac Animal Programme](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/ZodiacAnimal.java)
+- [Leap Years Programme](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/LeapYears.java)
