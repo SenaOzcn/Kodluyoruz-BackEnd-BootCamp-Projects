@@ -9,10 +9,10 @@ public class ExponentCalculator {
         number = scanner.nextInt();
       
         for (int i = 1; i <= number; i *= 4) {
-            System.out.println("4th Power is " + i);
+            System.out.println("Power of 4 is " + i);
         }
         for (int i = 1; i <= number; i *= 5) {
-            System.out.println("5th Power is  " + i);
+            System.out.println("Power of 5 is  " + i);
         }
     }
 }
