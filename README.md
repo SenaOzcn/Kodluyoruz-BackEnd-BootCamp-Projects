@@ -12,6 +12,7 @@ I gathered the **JAVA** projects I created during bootcamp here.
 - [Exponent Calculator](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/ExponentCalculator.java)
 - [Combination](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/Combination.java)
 - [Exponent](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/Exponent.java)
+- [Armstrong Number](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/ArmstrongNumber.java)
 
 ## Zodiac Animal Program
 
@@ -52,3 +53,11 @@ C(n,r) = n! / (r! * (n-r)!)
 ## Exponent
 
 Program that calculates exponential numbers with values entered by the user in Java **(For Loop)**
+
+## Armstrong Number
+
+Java program determines whether the integer entered is a **Narcissistic / Armstrong number or not**.
+
+In number theory, a narcissistic number (also known as a pluperfect digital invariant (an Armstrong number (after Michael F. Armstrong) or a plus perfect number) in a given number base b is a number that is the sum of its own digits each raised to the power of the number of digits.
+
+[for more information](https://en.wikipedia.org/wiki/Narcissistic_number)
