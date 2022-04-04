@@ -10,6 +10,7 @@ I gathered the **JAVA** projects I created during bootcamp here.
 - [Average](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/Average.java)
 - [Sum of even Numbers](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/SumOfEvenNumbers.java)
 - [Exponent Calculator](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/ExponentCalculator.java)
+- [Combination](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/Combination.java)
 
 ## Zodiac Animal Program
 
@@ -36,3 +37,13 @@ A program that accepts input from the user until a single number is entered with
 **Power of 4 Calculator** and **Power of 5 Calculator**
 
 Program that prints powers of 4 and 5 up to the number entered with Java loops.
+
+## Combination
+
+Program to calculate combination with Java.
+
+The number of r-combinations from a given of n elements is often denoted in elementary combinatorics texts by C(n,r).
+
+### Formula:
+
+C(n,r) = n! / (r! * (n-r)!)
