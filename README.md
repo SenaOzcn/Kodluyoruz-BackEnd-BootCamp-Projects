@@ -13,6 +13,7 @@ I gathered the **JAVA** projects I created during bootcamp here.
 - [Combination](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/Combination.java)
 - [Exponent](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/Exponent.java)
 - [Armstrong Number](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/ArmstrongNumber.java)
+- [Sum Of Digits](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/SumOfDigits.java)
 
 ## Zodiac Animal Program
 
@@ -61,3 +62,8 @@ Java program determines whether the integer entered is a **Narcissistic / Armstr
 In number theory, a narcissistic number (also known as a pluperfect digital invariant (an Armstrong number (after Michael F. Armstrong) or a plus perfect number) in a given number base b is a number that is the sum of its own digits each raised to the power of the number of digits.
 
 [for more information](https://en.wikipedia.org/wiki/Narcissistic_number)
+
+## Sum Of Digits
+
+Program to calculate the sum of digits of a number.
+
