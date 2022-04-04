@@ -7,4 +7,20 @@ I gathered the **JAVA** projects I created during bootcamp here.
 - [Zodiac Animal Programme](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/ZodiacAnimal.java)
 - [Leap Years Programme](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/LeapYears.java)
 - [Password Control Programme](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/Passwordcontrol.java)
-- [Average](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/Average)
+- [Average](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/Average.java)
+
+## Zodiac Animal Program
+
+There are 12 zodiac signs and the order goes like this: Rat, Ox, Tiger, Rabbit, Dragon, Snake, Horse, Goat, Monkey, Rooster, Dog and Pig. The program find your Chinese zodiac animal in Java.
+
+## Leap Years Program
+
+To be a leap year, the year number must be divisible by four – except for end-of-century years, which must be divisible by 400.
+
+## Password Control Program
+
+Customer account login password control with **while** loop.
+
+## Average
+
+Program that calculates the average of numbers divisible by 3 and 4 from numbers 0 to the number entered with Java loops.
