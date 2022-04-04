@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Averange {
+public class Average {
     public static void main(String[] args) {
         int number, average, score;
 
