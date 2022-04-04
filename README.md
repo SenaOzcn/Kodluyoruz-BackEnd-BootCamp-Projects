@@ -9,6 +9,7 @@ I gathered the **JAVA** projects I created during bootcamp here.
 - [Password Control Programme](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/Passwordcontrol.java)
 - [Average](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/Average.java)
 - [Sum of even Numbers](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/SumOfEvenNumbers.java)
+- [Exponent Calculator](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/ExponentCalculator.java)
 
 ## Zodiac Animal Program
 
@@ -29,3 +30,8 @@ Program that calculates the average of numbers divisible by 3 and 4 from numbers
 ## Sum of even Numbers
 
 A program that accepts input from the user until a single number is entered with Java loops and adds even and multiples of 4 from the entered values ​​and prints it on the screen.
+
+## Exponent Calculator
+
+**Power of 4 Calculator** and **Power of 5 Calculator**
+Program that prints powers of 4 and 5 up to the number entered with Java loops.
