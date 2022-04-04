@@ -11,6 +11,7 @@ I gathered the **JAVA** projects I created during bootcamp here.
 - [Sum of even Numbers](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/SumOfEvenNumbers.java)
 - [Exponent Calculator](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/ExponentCalculator.java)
 - [Combination](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/Combination.java)
+- [Exponent](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/Exponent.java)
 
 ## Zodiac Animal Program
 
@@ -47,3 +48,7 @@ The number of r-combinations from a given of n elements is often denoted in elem
 ### Formula:
 
 C(n,r) = n! / (r! * (n-r)!)
+
+## Exponent
+
+Program that calculates exponential numbers with values entered by the user in Java **(For Loop)**
