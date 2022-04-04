@@ -8,6 +8,7 @@ I gathered the **JAVA** projects I created during bootcamp here.
 - [Leap Years Programme](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/LeapYears.java)
 - [Password Control Programme](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/Passwordcontrol.java)
 - [Average](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/Average.java)
+- [Sum of even Numbers](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/SumOfEvenNumbers.java)
 
 ## Zodiac Animal Program
 
@@ -24,3 +25,7 @@ Customer account login password control with **while** loop.
 ## Average
 
 Program that calculates the average of numbers divisible by 3 and 4 from numbers 0 to the number entered with Java loops.
+
+## Sum of even Numbers
+
+A program that accepts input from the user until a single number is entered with Java loops and adds even and multiples of 4 from the entered values ​​and prints it on the screen.
