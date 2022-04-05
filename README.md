@@ -16,6 +16,7 @@ I gathered the **JAVA** projects I created during bootcamp here.
 - [Sum Of Digits](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/SumOfDigits.java)
 - [Harmonic Series](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/HarmonicSeries.java)
 - [Print Diamond](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/PrintDiamond.java)
+- [ATM Project](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/ATMProject.java)
 
 ## Zodiac Animal Program
 
@@ -84,3 +85,15 @@ In [mathematics](https://en.wikipedia.org/wiki/Mathematics), the harmonic series
 Java program to print diamond star pattern. 
 
 Using for loop.
+
+## ATM Project
+
+ATM Project Java.
+
+In the ATM program, the user has to select an option from the options displayed on the screen. The options are related to withdraw the money, deposit the money, check the balance, and exit.
+
+To withdraw the money, we simply get the withdrawal amount from the user and remove that amount from the total balance and print the successful message.
+
+To deposit the money, we simply get the deposit amount from the user, add it to the total balance and print the successful message.
+
+To check balance, we simply print the total balance of the user.
