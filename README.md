@@ -14,6 +14,7 @@ I gathered the **JAVA** projects I created during bootcamp here.
 - [Exponent](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/Exponent.java)
 - [Armstrong Number](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/ArmstrongNumber.java)
 - [Sum Of Digits](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/SumOfDigits.java)
+- [Harmonic Series](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/HarmonicSeries.java)
 
 ## Zodiac Animal Program
 
@@ -67,3 +68,12 @@ In number theory, a narcissistic number (also known as a pluperfect digital inva
 
 Program to calculate the sum of digits of a number.
 
+## Harmonic Series
+
+In [mathematics](https://en.wikipedia.org/wiki/Mathematics), the harmonic series is the [infinite series](https://en.wikipedia.org/wiki/Series_(mathematics)) formed by summing all positive [unit fractions](https://en.wikipedia.org/wiki/Unit_fraction):
+
+![Formula](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/java101/pratik-harmonic/figures/harmonic_series.gif)
+
+[more information about Harmonic series](https://en.wikipedia.org/wiki/Harmonic_series_(mathematics))
+
+**Java Program to Generate Harmonic Series**
