@@ -18,6 +18,7 @@ I gathered the **JAVA** projects I created during bootcamp here.
 - [Print Diamond](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/PrintDiamond.java)
 - [ATM Project](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/ATMProject.java)
 - [Find GCD and LCM](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/FindGCDLCM.java)
+- [Finding MIN and MAX from given number in Java](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/MinMax.java)
 
 ## Zodiac Animal Program
 
@@ -106,3 +107,7 @@ GCD or the Greatest Common Divisor of two given numbers A and B is the highest n
 ### Formula
 
 LCM(A, B)  =  (a * b) / GCD(A, B)
+
+## Finding MIN and MAX from given number in Java
+
+Java program that finds the MAX and MIN numbers entered from user.
