@@ -17,6 +17,7 @@ I gathered the **JAVA** projects I created during bootcamp here.
 - [Harmonic Series](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/HarmonicSeries.java)
 - [Print Diamond](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/PrintDiamond.java)
 - [ATM Project](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/ATMProject.java)
+- [Find GCD and LCM](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/FindGCDLCM.java)
 
 ## Zodiac Animal Program
 
@@ -97,3 +98,11 @@ To withdraw the money, we simply get the withdrawal amount from the user and rem
 To deposit the money, we simply get the deposit amount from the user, add it to the total balance and print the successful message.
 
 To check balance, we simply print the total balance of the user.
+
+## Java Program to Find GCD and LCM
+
+GCD or the Greatest Common Divisor of two given numbers A and B is the highest number dividing both A and B completely, i.e., leaving remainder 0 in each case. LCM or the Least Common Multiple of two given numbers A and B is the Least number which can be divided by both A and B, leaving remainder 0 in each case.
+
+### Formula
+
+LCM(A, B)  =  (a * b) / GCD(A, B)
