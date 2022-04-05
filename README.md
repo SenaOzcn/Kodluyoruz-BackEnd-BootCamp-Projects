@@ -15,6 +15,7 @@ I gathered the **JAVA** projects I created during bootcamp here.
 - [Armstrong Number](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/ArmstrongNumber.java)
 - [Sum Of Digits](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/SumOfDigits.java)
 - [Harmonic Series](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/HarmonicSeries.java)
+- [Print Diamond](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/PrintDiamond.java)
 
 ## Zodiac Animal Program
 
@@ -77,3 +78,9 @@ In [mathematics](https://en.wikipedia.org/wiki/Mathematics), the harmonic series
 [more information about Harmonic series](https://en.wikipedia.org/wiki/Harmonic_series_(mathematics))
 
 **Java Program to Generate Harmonic Series**
+
+## Print Diamond
+
+Java program to print diamond star pattern. 
+
+Using for loop.
