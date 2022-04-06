@@ -117,9 +117,9 @@ Java program that finds the MAX and MIN numbers entered from user.
 
 In number theory, a perfect number is a positive integer that is equal to the sum of its positive divisors, excluding the number itself.
 
-For instance, 6 has divisors 1, 2 and 3 (excluding itself), and 1 + 2 + 3 = 6, so 6 is a perfect number.
+For instance, 6 has divisors 1, 2 and 3 (excluding itself), and 1 + 2 + 3 = 6, so 6 is a perfect number. [more information](https://www.quantamagazine.org/the-mysterious-math-of-perfect-numbers-20210315/#:~:text=%E2%80%9CPerfect%20numbers%E2%80%9D%20are%20equal%20to,%2B%204%20%2B%202%20%2B%201.)
 
 ![Perfect Number in Java](https://static.javatpoint.com/core/images/perfect-number-program-in-java.png)
 
-[more information](https://www.quantamagazine.org/the-mysterious-math-of-perfect-numbers-20210315/#:~:text=%E2%80%9CPerfect%20numbers%E2%80%9D%20are%20equal%20to,%2B%204%20%2B%202%20%2B%201.)
+
 
