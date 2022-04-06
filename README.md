@@ -22,6 +22,7 @@ I gathered the **JAVA** projects I created during bootcamp here.
 - [Perfect Number](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/PerfectNumber.java)
 - [Inverted Triangle](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/InvertedTriangle.java)
 - [Prime Number](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/PrimeNumber.java)
+- [Fibonacci Series](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/FibonacciSeries.java)
 
 ## Zodiac Animal Program
 
@@ -130,3 +131,9 @@ Inverted triangle in Java using loops.
 ## Prime Number
 
 Prime Number Program in Java.
+
+## Fibonacci Series
+
+Fibonacci series in Java
+
+In fibonacci series, next number is the sum of previous two numbers for example 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55 etc. The first two numbers of fibonacci series are 0 and 1.
