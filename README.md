@@ -21,6 +21,7 @@ I gathered the **JAVA** projects I created during bootcamp here.
 - [Finding MIN and MAX from given number in Java](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/MinMax.java)
 - [Perfect Number](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/PerfectNumber.java)
 - [Inverted Triangle](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/InvertedTriangle.java)
+- [Prime Number](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/PrimeNumber.java)
 
 ## Zodiac Animal Program
 
@@ -126,3 +127,6 @@ For instance, 6 has divisors 1, 2 and 3 (excluding itself), and 1 + 2 + 3 = 6, s
 
 Inverted triangle in Java using loops.
 
+# Prime Number
+
+Prime Number Program in Java.
