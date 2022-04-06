@@ -20,6 +20,7 @@ I gathered the **JAVA** projects I created during bootcamp here.
 - [Find GCD and LCM](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/FindGCDLCM.java)
 - [Finding MIN and MAX from given number in Java](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/MinMax.java)
 - [Perfect Number](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/PerfectNumber.java)
+- [Inverted Triangle](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/InvertedTriangle.java)
 
 ## Zodiac Animal Program
 
@@ -121,5 +122,7 @@ For instance, 6 has divisors 1, 2 and 3 (excluding itself), and 1 + 2 + 3 = 6, s
 
 ![Perfect Number in Java](https://static.javatpoint.com/core/images/perfect-number-program-in-java.png)
 
+## Inverted Triangle
 
+Inverted triangle in Java using loops.
 
