@@ -19,6 +19,7 @@ I gathered the **JAVA** projects I created during bootcamp here.
 - [ATM Project](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/ATMProject.java)
 - [Find GCD and LCM](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/FindGCDLCM.java)
 - [Finding MIN and MAX from given number in Java](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/MinMax.java)
+- [Perfect Number](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/PerfectNumber.java)
 
 ## Zodiac Animal Program
 
@@ -111,3 +112,12 @@ LCM(A, B)  =  (a * b) / GCD(A, B)
 ## Finding MIN and MAX from given number in Java
 
 Java program that finds the MAX and MIN numbers entered from user.
+
+## Perfect Number
+
+In number theory, a perfect number is a positive integer that is equal to the sum of its positive divisors, excluding the number itself.
+
+For instance, 6 has divisors 1, 2 and 3 (excluding itself), and 1 + 2 + 3 = 6, so 6 is a perfect number.
+
+![Perfect Number in Java](https://static.javatpoint.com/core/images/perfect-number-program-in-java.png)
+
