@@ -1,6 +1,6 @@
 # Kodluyoruz BackEnd BootCamp Projects
 
-I gathered the **JAVA** projects I created during bootcamp here. [Patika.dev](https://www.patika.dev/tr)
+I gathered the **JAVA** projects I created during bootcamp here. :point_right: [Patika.dev](https://www.patika.dev/tr) :point_left:
 
 ## Ingredients
 
