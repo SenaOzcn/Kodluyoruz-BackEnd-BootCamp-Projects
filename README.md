@@ -26,6 +26,7 @@ I gathered the **JAVA** projects I created during bootcamp here. :point_right: [
 - [Palindromic Number](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/PalindromicNumber.java)
 - [Recursive Fibonacci Numbers](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/RecursiveFibonacci.java)
 - [Calculator](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/Calculator.java)
+- [Metot Exponent](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/MetotExponent.java)
 
 ## Zodiac Animal Program
 
