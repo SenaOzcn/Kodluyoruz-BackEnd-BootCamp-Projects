@@ -23,6 +23,7 @@ I gathered the **JAVA** projects I created during bootcamp here. [Patika.dev](ht
 - [Inverted Triangle](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/InvertedTriangle.java)
 - [Prime Number](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/PrimeNumber.java)
 - [Fibonacci Series](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/FibonacciSeries.java)
+- [Palindromic Number](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/PalindromicNumber.java)
 
 ## Zodiac Animal Program
 
@@ -137,3 +138,11 @@ Prime Number Program in Java.
 Fibonacci series in Java
 
 In fibonacci series, next number is the sum of previous two numbers for example 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55 etc. The first two numbers of fibonacci series are 0 and 1.
+
+## Palindromic Number
+
+A **palindromic number** (also known as a **numeral palindrome** or a **numeric palindrome**) is a number (such as 16461) that remains the same when its digits are reversed. In other words, it has [reflectional symmetry](https://en.wikipedia.org/wiki/Reflection_symmetry) across a vertical axis. The term palindromic is derived from [palindrome](https://en.wikipedia.org/wiki/Palindrome), which refers to a word (such as rotor or racecar) whose spelling is unchanged when its letters are reversed. The first 30 palindromic numbers (in [decimal](https://en.wikipedia.org/wiki/Decimal)) are:
+
+0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 22, 33, 44, 55, 66, 77, 88, 99, 101, 111, 121, 131, 141, 151, 161, 171, 181, 191, 202, … 
+
+[For More Information](https://en.wikipedia.org/wiki/Palindromic_number)
