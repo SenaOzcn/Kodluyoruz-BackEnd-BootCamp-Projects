@@ -150,6 +150,6 @@ A **palindromic number** (also known as a **numeral palindrome** or a **numeric 
 
 ## Recursive Fibonacci Numbers
 
-![Recursive Fibonacci Numbers](Recursive Fibonacci Numbers)
+![Recursive Fibonacci Numbers](https://i.stack.imgur.com/O2Ecw.jpg)
 
 
