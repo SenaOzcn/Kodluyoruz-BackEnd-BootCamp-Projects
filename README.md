@@ -28,6 +28,7 @@ I gathered the **JAVA** projects I created during bootcamp here. :point_right: [
 - [Calculator](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/Calculator.java)
 - [Metot Exponent](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/MetotExponent.java)
 - [Recursive Prime Numbers](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/RecursivePrimeNumbers.java)
+- [Print Pattern](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/PrintPattern.java)
 
 ## Zodiac Animal Program
 
