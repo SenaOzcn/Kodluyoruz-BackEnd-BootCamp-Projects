@@ -27,6 +27,7 @@ I gathered the **JAVA** projects I created during bootcamp here. :point_right: [
 - [Recursive Fibonacci Numbers](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/RecursiveFibonacci.java)
 - [Calculator](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/Calculator.java)
 - [Metot Exponent](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/MetotExponent.java)
+- [Recursive Prime Numbers](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/RecursivePrimeNumbers.java)
 
 ## Zodiac Animal Program
 
@@ -153,5 +154,9 @@ A **palindromic number** (also known as a **numeral palindrome** or a **numeric 
 ## Recursive Fibonacci Numbers
 
 ![Recursive Fibonacci Numbers](https://i.stack.imgur.com/O2Ecw.jpg)
+
+## Recursive Prime Numbers
+
+Java program to check whether a number is prime or not using recursion.
 
 
