@@ -176,6 +176,8 @@ Classes can also contain functions, called **methods** available only to objects
 - Easier to debug, classes often contain all applicable information to them
 - Secure, protects information through encapsulation
 
+=> [For More](https://www.educative.io/blog/object-oriented-programming)
+
 ***Don't Repeat Yourself!***
 
 
