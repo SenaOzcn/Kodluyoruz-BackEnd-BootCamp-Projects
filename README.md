@@ -76,7 +76,7 @@ Java program determines whether the integer entered is a **Narcissistic / Armstr
 
 In number theory, a narcissistic number (also known as a pluperfect digital invariant (an Armstrong number (after Michael F. Armstrong) or a plus perfect number) in a given number base b is a number that is the sum of its own digits each raised to the power of the number of digits.
 
-[for more information](https://en.wikipedia.org/wiki/Narcissistic_number)
+:point_right: [for more information](https://en.wikipedia.org/wiki/Narcissistic_number)
 
 ## Sum Of Digits
 
@@ -88,7 +88,7 @@ In [mathematics](https://en.wikipedia.org/wiki/Mathematics), the harmonic series
 
 ![Formula](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/java101/pratik-harmonic/figures/harmonic_series.gif)
 
-[more information about Harmonic series](https://en.wikipedia.org/wiki/Harmonic_series_(mathematics))
+:point_right: [more information about Harmonic series](https://en.wikipedia.org/wiki/Harmonic_series_(mathematics))
 
 **Java Program to Generate Harmonic Series**
 
@@ -126,7 +126,7 @@ Java program that finds the MAX and MIN numbers entered from user.
 
 In number theory, a perfect number is a positive integer that is equal to the sum of its positive divisors, excluding the number itself.
 
-For instance, 6 has divisors 1, 2 and 3 (excluding itself), and 1 + 2 + 3 = 6, so 6 is a perfect number. [More information](https://www.quantamagazine.org/the-mysterious-math-of-perfect-numbers-20210315/#:~:text=%E2%80%9CPerfect%20numbers%E2%80%9D%20are%20equal%20to,%2B%204%20%2B%202%20%2B%201.)
+For instance, 6 has divisors 1, 2 and 3 (excluding itself), and 1 + 2 + 3 = 6, so 6 is a perfect number. :point_right: [More information](https://www.quantamagazine.org/the-mysterious-math-of-perfect-numbers-20210315/#:~:text=%E2%80%9CPerfect%20numbers%E2%80%9D%20are%20equal%20to,%2B%204%20%2B%202%20%2B%201.)
 
 ![Perfect Number in Java](https://static.javatpoint.com/core/images/perfect-number-program-in-java.png)
 
@@ -150,7 +150,7 @@ A **palindromic number** (also known as a **numeral palindrome** or a **numeric 
 
 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 22, 33, 44, 55, 66, 77, 88, 99, 101, 111, 121, 131, 141, 151, 161, 171, 181, 191, 202, … 
 
-[For More Information](https://en.wikipedia.org/wiki/Palindromic_number)
+:point_right: [For More Information](https://en.wikipedia.org/wiki/Palindromic_number)
 
 ## Recursive Fibonacci Numbers
 
@@ -176,7 +176,7 @@ Classes can also contain functions, called **methods** available only to objects
 - Easier to debug, classes often contain all applicable information to them
 - Secure, protects information through encapsulation
 
-=> [For More](https://www.educative.io/blog/object-oriented-programming)
+:point_right: [For More](https://www.educative.io/blog/object-oriented-programming)
 
 ***Don't Repeat Yourself!***
 
