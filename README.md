@@ -29,6 +29,7 @@ I gathered the **JAVA** projects I created during bootcamp here. :point_right: [
 - [Metot Exponent](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/MetotExponent.java)
 - [Recursive Prime Numbers](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/RecursivePrimeNumbers.java)
 - [Print Pattern](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/PrintPattern.java)
+- [Student Grading System](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/StudentGradingSystem.java)
 
 ## Zodiac Animal Program
 
@@ -190,3 +191,20 @@ In software engineering and computer science, abstraction is:
 Abstraction, in general, is a fundamental concept in computer science and software development. The process of abstraction can also be referred to as **modeling** and is closely related to the concepts of theory and design. Models can also be considered types of abstractions per their generalization of aspects of reality.
 
 :point_right: [For More](https://en.wikipedia.org/wiki/Abstraction_(computer_science))
+
+## Student Grading System
+
+### Course Class Features :
+
+- Qualifications : name, code, prefix, note, Teacher
+- Methods : Course() , addTeacher() , printTeacher()
+
+### Teacher Class Features :
+
+- Qualifications : name, mpno, branch
+- Methods : Teacher()
+
+### Student Class Features :
+
+- Qualifications : name, stuNo, classes, course1, course2, course3, avarage, isPass
+- Methods : Student(), addBulkExamNote(), isPass(), calcAvarage(), printNote()
