@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class PrintPattern {
   public static int pattern(int number) {
     int original = number;
-    System.out.println(number);
+    System.out.print(number + "\t");
 
     if (number > 0) {
       original = pattern(number -= 5);
@@ -15,7 +15,6 @@ public class PrintPattern {
     if (original > 0) {
       number += 5;
     }
-    System.out.println(number);
     return number;
   }
   public static void main(String[] Args) {
