@@ -31,6 +31,7 @@ I gathered the **JAVA** projects I created during bootcamp here. :point_right: [
 - [Print Pattern](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/PrintPattern.java)
 - [Student Grading System](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/StudentGradingSystem.java)
 - [Box Players](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/tree/MIT-License/BoxPlayers)
+- [Salary Employee](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/tree/MIT-License/SalaryEmployee)
 
 ## Zodiac Animal Program
 
