@@ -30,6 +30,7 @@ I gathered the **JAVA** projects I created during bootcamp here. :point_right: [
 - [Recursive Prime Numbers](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/RecursivePrimeNumbers.java)
 - [Print Pattern](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/PrintPattern.java)
 - [Student Grading System](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/StudentGradingSystem.java)
+- [Box Players](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/tree/MIT-License/BoxPlayers)
 
 ## Zodiac Animal Program
 
