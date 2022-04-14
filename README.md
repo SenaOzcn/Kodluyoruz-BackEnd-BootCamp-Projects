@@ -214,3 +214,22 @@ Abstraction, in general, is a fundamental concept in computer science and softwa
 
 - Qualifications : name, stuNo, classes, course1, course2, course3, avarage, isPass
 - Methods : Student(), addBulkExamNote(), isPass(), calcAvarage(), printNote()
+
+## Arrays in Java
+
+An array in Java is a group of like-typed variables referred to by a common name. Arrays in Java work differently than they do in C/C++. Following are some important points about Java arrays. 
+
+- In Java, all arrays are dynamically allocated. (discussed below)
+- Since arrays are objects in Java, we can find their length using the object property length. This is different from C/C++, where we find length using sizeof.
+- A Java array variable can also be declared like other variables with **[]** after the data type.
+- The variables in the array are ordered, and each has an index beginning from **0**.
+- Java array can be also be used as a static field, a local variable, or a method parameter.
+- The **size** of an array must be specified by int or short value and not long.
+- The direct superclass of an array type is [Object](https://www.geeksforgeeks.org/object-class-in-java/).
+- Every array type implements the interfaces [Cloneable](https://www.geeksforgeeks.org/marker-interface-java/) and [java.io.Serializable](https://www.geeksforgeeks.org/serialization-in-java/).
+
+An array can contain primitives (int, char, etc.) and object (or non-primitive) references of a class depending on the definition of the array. In the case of primitive data types, the actual values are stored in contiguous memory locations. In the case of class objects, [the actual objects are stored in a heap segment](https://www.geeksforgeeks.org/g-fact-46/). 
+
+![Arrays](https://media.geeksforgeeks.org/wp-content/uploads/Arrays1.png)
+
+:point_right: [For More](https://www.geeksforgeeks.org/arrays-in-java/)
