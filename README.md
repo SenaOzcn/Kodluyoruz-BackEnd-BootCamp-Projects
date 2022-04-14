@@ -35,6 +35,7 @@ I gathered the **JAVA** projects I created during bootcamp here. :point_right: [
 - [Harmonic Means](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/HarmonicMeans.java)
 - [Near Highter Smaller](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/NearHighterSmaller.java)
 - [Letter B](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/Letter.java)
+- [Dublicate](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/Duplicate.java)
 
 ## Zodiac Animal Program
 
