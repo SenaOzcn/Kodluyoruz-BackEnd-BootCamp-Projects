@@ -36,6 +36,7 @@ I gathered the **JAVA** projects I created during bootcamp here. :point_right: [
 - [Near Highter Smaller](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/NearHighterSmaller.java)
 - [Letter B](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/Letter.java)
 - [Dublicate](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/Duplicate.java)
+- [Take Array[(https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/TakeArray.java)
 
 ## Zodiac Animal Program
 
@@ -233,3 +234,7 @@ An array can contain primitives (int, char, etc.) and object (or non-primitive) 
 ![Arrays](https://media.geeksforgeeks.org/wp-content/uploads/Arrays1.png)
 
 :point_right: [For More](https://www.geeksforgeeks.org/arrays-in-java/)
+
+## Take Array
+
+Get the size of the array and the elements of the array from the user Java.
