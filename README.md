@@ -39,6 +39,7 @@ I gathered the **JAVA** projects I created during bootcamp here. :point_right: [
 - [Take Array](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/TakeArray.java)
 - [Number Game](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/NumberGame.java)
 - [Matrix To Transpose](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/TransposeMatrix.java)
+- [Palindrome](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/Palindrome.java)
 
 ## Zodiac Animal Program
 
