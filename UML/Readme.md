@@ -46,3 +46,4 @@ UML is linked with **object oriented** design and analysis. UML makes the use of
 
 Using OOP principals, build out the hierarchical class structure of a zoo within Visual Studio and a digital diagram. There should be at least 3 layers of inheritance with at least 6 different types of animals.
 
+![diogram](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/UML/ZOO.png)
