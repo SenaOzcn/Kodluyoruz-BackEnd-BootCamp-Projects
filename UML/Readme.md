@@ -47,3 +47,18 @@ UML is linked with **object oriented** design and analysis. UML makes the use of
 There should be at least 3 layers of inheritance with at least 6 different types of animals.
 
 ![diogram](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/UML/ZOO.png)
+
+# Fly
+
+- Airlines operate the flights. Every airline has an ID.
+- The airline has different types of aircraft.
+- Aircraft may be operational or in a state of repair.
+- Each flight has a unique identity, airport to take off and land at, and departure and landing times.
+- Every flight has a pilot and co-pilot, and they operate the plane.
+- Airports have unique IDs and names.
+- Airlines have pilots, and each pilot has a level of experience.
+- An aircraft type may need a certain number of pilots.
+
+![diagram](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/UML/fly.png)
+
+
