@@ -62,3 +62,6 @@ There should be at least 3 layers of inheritance with at least 6 different types
 ![diagram](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/UML/fly.png)
 
 
+# Movie System 
+
+![diagram](https://github.com/SenaOzcn/Kodluyoruz-BackEnd-BootCamp-Projects/blob/MIT-License/UML/movie.png)
